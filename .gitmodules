@@ -1,0 +1,14 @@
+[submodule "pybind11"]
+    path = pybind11
+    url = https://github.com/pybind/pybind11.git
+    branch = master
+
+[submodule "cmake_example"]
+    path = cmake_example
+    url = hhttps://github.com/pybind/cmake_example.git
+    branch = master
+
+[submodule "iq_maxlfq"]
+    path = iq_maxlfq
+    url = https://github.com/ddluc2000/iq_maxlfq.git
+    branch = master
